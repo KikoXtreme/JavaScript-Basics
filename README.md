@@ -1,2 +1,2 @@
 # JS Basics
-SoftUni Courses, Projects, Lectures and Homeworks
+👨‍🎓 SoftUni Courses, Projects, Lectures and Homeworks
